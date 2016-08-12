@@ -1,0 +1,38 @@
+body{
+	font-family: 'Armata', sans-serif;
+}
+
+header{
+	margin: 50px;
+	text-align: center; 
+	font-size: 400%;
+}
+p {text-align: center;}
+
+.line {
+	width: 88%;
+	margin: 5px auto;
+	position:inline-flex;
+	text-align:center;
+
+}
+
+.line div{
+	float: left;
+}
+
+#a1 {display: inline;}
+	
+
+
+#a2{display: inline；}
+
+#a3 {display: relative;}
+	
+
+
+#a4 {display: relative;}
+
+#a5{display: relative;}
+
+#a6 {display: relative;}
